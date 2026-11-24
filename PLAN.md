@@ -51,8 +51,8 @@ Swap roles freely if you prefer, but change this table when you do.
 
 | ✓ | Task | Owner | Reviewer |
 |---|---|---|---|
-| [ ] | Create the GitHub repo, push this folder, invite the other two (see README §"Put it on GitHub") | Julia | — |
-| [ ] | Run `tools/setup_github.sh` once to create the issues + milestones board | Julia | Luiz |
+| [x] | Create the GitHub repo, push this folder, invite the other two (see README §"Put it on GitHub") | Julia | — |
+| [x] | Run `tools/setup_github.sh` once to create the issues + milestones board | Julia | Luiz |
 | [ ] | Clone, install (`pip install -r requirements.txt`), run `pytest -q` → all green | **Julia** | — |
 | [ ] | (same) | **Luiz** | — |
 | [ ] | (same) | **Elizabeth** | — |

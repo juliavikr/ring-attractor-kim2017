@@ -12,7 +12,7 @@ We study and partially reproduce
 ## 🚀 Start here (everyone, day 1)
 
 ```bash
-git clone https://github.com/<OWNER>/ring-attractor-kim2017.git
+git clone https://github.com/juliavikr/ring-attractor-kim2017.git
 cd ring-attractor-kim2017
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -67,7 +67,7 @@ Then open **[PLAN.md](PLAN.md)**. It has the full checklist, who does what, and 
 
 ![Fig 4D](figures/fig4D_phase_diagrams.png)
 
-## 📤 Put it on GitHub (Julia, once)
+## 📤 Put it on GitHub (Julia, once) ✅ done: repo pushed, issues + milestones created
 
 1. On github.com → **New repository** → name `ring-attractor-kim2017`, **Private**, *don't* add a README.
 2. In this folder:

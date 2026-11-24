@@ -1,0 +1,17 @@
+# copyrighted paper - keep it local only
+papers/*.pdf
+# data (huge) - see data/README.md
+data/*
+!data/README.md
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+# big intermediate results
+results/*.npz
+# OS
+.DS_Store
+Thumbs.db

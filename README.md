@@ -67,14 +67,6 @@ Then open **[PLAN.md](PLAN.md)**. It has the full checklist, who does what, and 
 
 ![Fig 4D](figures/fig4D_phase_diagrams.png)
 
-## 📤 Put it on GitHub (Julia, once) ✅ done: repo pushed, issues + milestones created
-
-1. On github.com → **New repository** → name `ring-attractor-kim2017`, **Private**, *don't* add a README.
-2. In this folder:
-   ```bash
-   git remote add origin https://github.com/<YOUR-USERNAME>/ring-attractor-kim2017.git
-   git push -u origin main
-   ```
 3. Repo **Settings → Collaborators** → invite Luiz and Elizabeth.
 4. Optional but recommended: install the [GitHub CLI](https://cli.github.com/), run `gh auth login`, then
    `bash tools/setup_github.sh` to create all tasks as **Issues** grouped in 3 **Milestones** (M1/M2/M3).
